@@ -79,3 +79,4 @@ If you're looking for news and updates about Frontity, [Twitter](https://twitter
 
 Frontity welcomes contributions in all forms. There are many different ways to support the project. Check out the **[How to contribute](https://docs.frontity.org/contributing/how-to-contribute)** page for ideas on contributing and helping make Frontity better.
 # wordpress-theme-frontity
+# wordpress-theme-frontity
